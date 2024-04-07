@@ -13,15 +13,15 @@ body{
     height: 16em;
 }
 .logo img{
-   width: 20em; 
-   height: 12em;
+   width: 14em; 
+   height: 10em;
    margin-bottom: 2em;
 }
 
 .logo .nav a{
     font-weight: bold;
     text-decoration: none;
-    color: white;
+    color: #00cfc7;
     border-radius: 30px;
     font-size: 1em;
     padding-top: .3em;
@@ -33,11 +33,11 @@ body{
     display: flex;
 }
 .logo .nav a:hover{
-    background: #b60213; 
+    background: #D3D3D3; 
     transition: ease all  0.5s;
 }
 .logo .nav a:focus{
-    background: #b60213; 
+    background: white; 
 }
 .title h1{
     font-family:cursive;
@@ -49,6 +49,7 @@ body{
 }
 .title p {
     color: white;
+    margin-bottom: 2em;
 }
 .title img{
     margin-top: 1em;
