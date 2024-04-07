@@ -73,3 +73,10 @@ body{
     margin-left: 1em;
     font-family: 'Courier New', Courier, monospace;
 }
+@font-face {
+  font-family: 'FooBar';
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url(/fonts/FooBar.woff2) format('woff2');
+}
