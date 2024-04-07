@@ -10,7 +10,7 @@ body{
     text-align: center;
     background-color: #070e1e;
     width: 100%;
-    height: 18em;
+    height: 16em;
 }
 .logo img{
    width: 20em; 
@@ -44,42 +44,13 @@ body{
     font-weight: bold;
     font-size: 1em;
 }
-
-.title .k{
-    font-weight: bold;
-    font-size: 4em;
-    color: white;
-    font-family: Impact;
-}
-.title .e{
-    font-size: 4.2em;
-    color: white;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
-.title .r{
-    color: #00cfc7;
-    font-size: 4em;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-}
-.title .n{
-    color: #00cfc7;
-    font-size: 4em;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-}
-.title .i{
-    color: #00cfc7;
-    font-size: 4em;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-}
-.title .x{
-    font-weight: bold;
-    font-size: 4em;
-    color: white;
-    font-family: Impact;
-}
 .title{
     text-align: center;
 }
 .title p {
     color: white;
+}
+.title img{
+    margin-top: 1em;
+    width: 100%;
 }
