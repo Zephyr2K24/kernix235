@@ -54,3 +54,12 @@ body{
     margin-top: 1em;
     width: 100%;
 }
+.title a{
+    font-weight: bold;
+    text-decoration: none;
+    color: white;
+    border-radius: 30px;
+    font-size: 1em;
+    padding: .5em;  
+    background: #b60213; 
+}
